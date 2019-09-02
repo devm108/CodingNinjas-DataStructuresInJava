@@ -1,0 +1,8 @@
+Which one of the following correctly determines the solution of the recurrence relation with T(1) = 1?
+T(n) = 2T(n/2) + Logn
+A. O(N) 
+B. O(NlogN)
+C. O(N^2)
+D. O(log N)
+
+Ans- A. O(N)
